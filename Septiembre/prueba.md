@@ -3,7 +3,6 @@
 | Código | Nombre | Fecha | Grado necesidad |
 | --- | --- | --- | --- |
 | RF001 | Inicio de sesión | 18/09/21 | Alto |
-| --- | --- |
 | Descripción | En este módulo los usuarios podrán iniciar sesión con correo electrónico y contraseña. Contará con botón de “Ingresar”. Y tendrán la opción de recuperar la contraseña. |
 | Entradas | Fuente | Salida | Destino | Restricciones |
 |Correo electrónico | Nombre completo, Foto de perfil | Menú principal, página de promoción | El usuario no podrá tener acceso al sistema y sus funcionalidades si no se registra e inicia sesión.|
